@@ -1,0 +1,2 @@
+# Pingamajig
+Ping Tool
